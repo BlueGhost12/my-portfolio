@@ -1,115 +1,114 @@
 {
-  "main": {
-    "name": "Md. Al-Amin Shaheen",
-    "occupation": "Frontend Web Developer",
-    "description": "An aspiring web developer who wants to achieve great heights",
-    "image": "fb_Alamin.jpg",
-    "bio": "I'm Alamin and I'm a frontend web developer. Currently I'm working as a software engineer at Astha IT where I push pixels, shuffle data, and slap my keyboard until everything works",
-    "contactmessage": "Get in touch with me to receive further details",
-    "email": "alaminshaheen@iut-dhaka.com",
-    "phone": "01923460044",
-    "address": {
-      "street": "Zoo Road",
-      "city": "Dhaka",
-      "state": "Dhaka",
-      "zip": ""
-    },
-    "website": "",
-    "resumedownload": "",
-    "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/asakiss",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/alaminshaheen74",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/BlueGhost12",
-        "className": "fa fa-github"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "Here are my proficiency in some of the web development languages and database",
-    "education": [
-      {
-        "school": "Islamic Uniersity of Technology",
-        "degree": "Bachelor's of Science in Computer Science and Engineering",
-        "graduated": "December 2019",
-        "description": "Graduated with Distinction"
-      }
-    ],
-    "work": [
-      {
-        "company": "Astha IT",
-        "title": "Frontend Engineer",
-        "years": "February 2021 - Present",
-        "description": "Frontend software engineer in charge of developing smooth and slick responsive websites"
-      },
-      {
-        "company": "Huawei Bangladesh",
-        "title": "Software Engineer",
-        "years": "February 2020 - November 2020",
-        "description": "Acting as a support telecommunications software engineer for Huawei under Robi Axiata"
-      }
-    ],
-    "skills": [
-      {
-        "name": "ReactJs",
-        "level": "95%"
-      },
-      {
-        "name": "CSS",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "85%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MySQL",
-        "level": "70%"
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Netflix Clone",
-        "category": "Netflix Clone built with ReactJS. Used the TMDB API to fetch movie data. Used firebase for hosting.",
-        "image": "netflix-clone.jpeg",
-        "url": "https://netflix-clone-43e0a.web.app/"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "A React chat application built using Socket.io and basic HTML and CSS. Users can login with a name and enter the same chat room and chat with each other.",
-        "image": "",
-        "url": "https://chatagram.netlify.app"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "A React chat application built using Socket.io and basic HTML and CSS. Users can login with a name and enter the same chat room and chat with each other.",
-        "image": "",
-        "url": "https://react-shopee.netlify.app/"
-      },
-      
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "I've seen you work hard for this entire week of thesis defense. I know you have great things destined in your life",
-        "user": "Kamrul Hasan (Thesis Supervisor)"
-      }
-    ]
-  }
+	"main": {
+		"name": "Md. Al-Amin Shaheen",
+		"occupation": "Frontend Web Developer",
+		"description": "An aspiring web developer who wants to achieve great heights",
+		"image": "fb_Alamin.jpg",
+		"bio": "I'm Alamin and I'm a frontend web developer. Currently I'm working as a software engineer at Astha IT where I push pixels, shuffle data, and slap my keyboard until everything works",
+		"contactmessage": "Get in touch with me to receive further details",
+		"email": "alaminshaheen@iut-dhaka.com",
+		"phone": "01923460044",
+		"address": {
+			"street": "Zoo Road",
+			"city": "Dhaka",
+			"state": "Dhaka",
+			"zip": ""
+		},
+		"website": "",
+		"resumedownload": "",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/asakiss",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/alaminshaheen74",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/BlueGhost12",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Here are my proficiency in some of the web development languages and database",
+		"education": [
+			{
+				"school": "Islamic Uniersity of Technology",
+				"degree": "Bachelor's of Science in Computer Science and Engineering",
+				"graduated": "December 2019",
+				"description": "Graduated with Distinction"
+			}
+		],
+		"work": [
+			{
+				"company": "Astha IT",
+				"title": "Frontend Engineer",
+				"years": "February 2021 - Present",
+				"description": "Frontend software engineer in charge of developing smooth and slick responsive websites"
+			},
+			{
+				"company": "Huawei Bangladesh",
+				"title": "Software Engineer",
+				"years": "February 2020 - November 2020",
+				"description": "Acting as a support telecommunications software engineer for Huawei under Robi Axiata"
+			}
+		],
+		"skills": [
+			{
+				"name": "ReactJs",
+				"level": "95%"
+			},
+			{
+				"name": "CSS",
+				"level": "85%"
+			},
+			{
+				"name": "Git",
+				"level": "85%"
+			},
+			{
+				"name": "HTML5",
+				"level": "80%"
+			},
+			{
+				"name": "MySQL",
+				"level": "70%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Netflix Clone",
+				"category": "Netflix Clone built with ReactJS. Used the TMDB API to fetch movie data. Used firebase for hosting.",
+				"image": "netflix-clone.jpeg",
+				"url": "https://netflix-clone-43e0a.web.app/"
+			},
+			{
+				"title": "Netflix Clone",
+				"category": "A React chat application built using Socket.io and basic HTML and CSS. Users can login with a name and enter the same chat room and chat with each other.",
+				"image": "",
+				"url": "https://chatagram.netlify.app"
+			},
+			{
+				"title": "Netflix Clone",
+				"category": "A React chat application built using Socket.io and basic HTML and CSS. Users can login with a name and enter the same chat room and chat with each other.",
+				"image": "",
+				"url": "https://react-shopee.netlify.app/"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "I've seen you work hard for this entire week of thesis defense. I know you have great things destined in your life",
+				"user": "Kamrul Hasan (Thesis Supervisor)"
+			}
+		]
+	}
 }
