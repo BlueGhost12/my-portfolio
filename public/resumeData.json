@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Md. Al-Amin Shaheen",
-    "occupation": "ReactJS Developer",
-    "description": "I'm an aspiring web developer who wants to achieve great heights",
+    "occupation": "Frontend Web Developer",
+    "description": "An aspiring web developer who wants to achieve great heights",
     "image": "fb_Alamin.jpg",
-    "bio": "My name is Alamin, I'm a ReactJS Developer. Currently I'm working as a software engineer at Huawei Bangladesh Ltd. ",
+    "bio": "My name is Alamin, I'm a frontend web developer. Currently I'm working as a software engineer at Astha IT",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "alaminshaheen@iut-dhaka.com",
     "phone": "01923460044",
@@ -14,8 +14,8 @@
       "state": "Dhaka",
       "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
@@ -46,24 +46,30 @@
     ],
     "work": [
       {
+        "company": "Astha IT",
+        "title": "Frontend Engineer",
+        "years": "February 2021 - Present",
+        "description": "Frontend software engineer in charge of developing smooth and slick responsive websites"
+      },
+      {
         "company": "Huawei Bangladesh",
-        "title": "SOftware Engineer",
-        "years": "February 2020 - Present",
-        "description": "Acting as a support software engineer for Huawei under Robi Axiata"
+        "title": "Software Engineer",
+        "years": "February 2020 - November 2020",
+        "description": "Acting as a support telecommunications software engineer for Huawei under Robi Axiata"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "75%"
+        "level": "95%"
       },
       {
         "name": "CSS",
-        "level": "65%"
+        "level": "85%"
       },
       {
         "name": "Git",
-        "level": "65%"
+        "level": "85%"
       },
       {
         "name": "HTML5",
@@ -71,24 +77,31 @@
       },
       {
         "name": "MySQL",
-        "level": "80%"
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Pikchagram",
-        "category": "A image uploading website built with ReactJS. People can upload and store images online",
-        "image": "Screenshot (8).png",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
         "title": "Netflix Clone",
         "category": "Netflix Clone built with ReactJS. Used the TMDB API to fetch movie data. Used firebase for hosting.",
         "image": "netflix-clone.jpeg",
         "url": "https://netflix-clone-43e0a.web.app/"
-      }
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "A React chat application built using Socket.io and basic HTML and CSS. Users can login with a name and enter the same chat room and chat with each other.",
+        "image": "",
+        "url": "https://chatagram.netlify.app"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "A React chat application built using Socket.io and basic HTML and CSS. Users can login with a name and enter the same chat room and chat with each other.",
+        "image": "",
+        "url": "https://react-shopee.netlify.app/"
+      },
+      
     ]
   },
   "testimonials": {
